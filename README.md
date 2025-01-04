@@ -24,10 +24,10 @@ This game is designed to enhance players' aiming and reflex skills. Our goal is 
 **Enjoy the game!**
 
 
-![Screenshot 1](Game%20Screenshots/s1.jpg)
-![Screenshot 2](Game%20Screenshots/s2.jpg)
-![Screenshot 3](Game%20Screenshots/s3.jpg)
-![Screenshot 4](Game%20Screenshots/s4.jpg)
-![Screenshot 5](Game%20Screenshots/s5.jpg)
-![Screenshot 6](Game%20Screenshots/s6.jpg)
-![Screenshot 7](Game%20Screenshots/s7.jpg)
+![Screenshot 1](Game%20Screenshots/s1.png)
+![Screenshot 2](Game%20Screenshots/s2.png)
+![Screenshot 3](Game%20Screenshots/s3.png)
+![Screenshot 4](Game%20Screenshots/s4.png)
+![Screenshot 5](Game%20Screenshots/s5.png)
+![Screenshot 6](Game%20Screenshots/s6.png)
+![Screenshot 7](Game%20Screenshots/s7.png)
