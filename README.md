@@ -19,7 +19,7 @@ FPS Warmup Map is a shooting and reflex-training game developed with Unreal Engi
 - **Controls:** Keyboard and mouse support  
 
 ## Developer Notes
-This game is designed to enhance players' aiming and reflex skills. Our goal is to provide an experience where you can improve your abilities while having fun.
+This game is designed to enhance players' aiming and reflex skills. My goal is to provide an experience where you can improve your abilities while having fun.
 
 **Enjoy the game!**
 
